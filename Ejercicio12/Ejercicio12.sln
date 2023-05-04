@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorDiagolForm", "ColorDiagolForm\ColorDiagolForm.csproj", "{C38225F2-1DF1-4639-AF83-66F98581249D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38225F2-1DF1-4639-AF83-66F98581249D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38225F2-1DF1-4639-AF83-66F98581249D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38225F2-1DF1-4639-AF83-66F98581249D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38225F2-1DF1-4639-AF83-66F98581249D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCDA53F1-26C1-4DA1-912B-B7F379E92777}
+	EndGlobalSection
+EndGlobal
